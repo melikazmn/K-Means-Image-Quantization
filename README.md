@@ -24,15 +24,16 @@ This repository contains a Python script that applies K-Means clustering to redu
 - Matplotlib
 
 ## Example
-If you input k = 8, the script will:
-- Quantize the image to 8 colors.
+If you input k = 4, the script will:
+- Quantize the image to 4 colors.
 - Display the original and quantized images.
-- Save the quantized image as quantized_image_8.png.
+- Save the quantized image as quantized_image_4.png.
 - Print the compression ratio in the terminal, comparing the original image size to the quantized one.
+![pic](https://github.com/user-attachments/assets/4e914591-31bb-44ea-a270-0d75d0dcca24)
+![quantized_image_4](https://github.com/user-attachments/assets/cd41f914-3160-4d2e-81c2-23a2be963d36)
+
 
 ## Compression Ratio
 - The compression ratio is calculated as:
  `Compression Ratio = (Original Image Size) / (Quantized Image Size)`
 A higher ratio means greater compression.
-![pic](https://github.com/user-attachments/assets/4e914591-31bb-44ea-a270-0d75d0dcca24)
-![quantized_image_4](https://github.com/user-attachments/assets/cd41f914-3160-4d2e-81c2-23a2be963d36)

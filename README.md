@@ -34,3 +34,5 @@ If you input k = 8, the script will:
 - The compression ratio is calculated as:
  `Compression Ratio = (Original Image Size) / (Quantized Image Size)`
 A higher ratio means greater compression.
+![pic](https://github.com/user-attachments/assets/4e914591-31bb-44ea-a270-0d75d0dcca24)
+![quantized_image_4](https://github.com/user-attachments/assets/cd41f914-3160-4d2e-81c2-23a2be963d36)
